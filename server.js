@@ -1,4 +1,4 @@
-// server.js
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const employeeRoutes = require('./employee');
